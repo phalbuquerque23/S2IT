@@ -26,4 +26,4 @@ C - Certo
 
 7 - Spring é um framework que suporta a publicação de mensagens para determinado tópico de mensagens para auxílio no desenvolvimento de sistemas complexos. Nesse modelo, o desenvolvedor master não sabe da existência do desenvolvedor associado e vice-versa.
 
-E – Errado
+E – Errado 
